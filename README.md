@@ -1,4 +1,4 @@
-![image](https://github.com/DaviSoares-1/FrontendMentor-Challenges-Junior/blob/master/CopilotTech-1.png)
+![image](https://github.com/DaviSoares-1/Kotlin-Algoritmos/blob/master/CopilotTech-1.png)
 
 <h1 align="center">🖥️ Exercícios de Algoritmos</h1>
 
