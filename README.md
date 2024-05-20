@@ -15,6 +15,8 @@ Confira [aqui](https://www.cursoemvideo.com/wp-content/uploads/2020/10/Exerci%CC
 ## 🛠️ Pre-requisitos
 Para rodar os meus arquivos, você precisa ter o Java instalado na sua máquina e uma IDE apropriada. Você pode baixar o Java [aqui](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR).
 
+Lembrando que os arquivos referentes a cada exercício estão em: **/src/main/kotlin/**
+
 ## 📢 Feedbacks
 Neste momento, eu ainda sou iniciante no Kotlin e estou na busca dominar esta linguagem de programação tão incrível. Desta forma, aceito sugestões e feedbacks para melhorar os meus códigos!!
 
