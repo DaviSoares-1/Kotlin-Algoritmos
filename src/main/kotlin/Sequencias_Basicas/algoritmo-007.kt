@@ -1,6 +1,6 @@
 package Sequencias_Basicas
 
-import java.util.*
+import java.util.Scanner
 
 fun main() {
   /* Desafio 007: Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.*/

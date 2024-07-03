@@ -1,6 +1,6 @@
 package Sequencias_Basicas
 
-import java.util.*
+import java.util.Scanner
 import kotlin.math.roundToInt
 
 fun main() {
@@ -15,5 +15,5 @@ fun main() {
   após a vírgula. */
   val qntCasasDecimais = "%.${2}f".format(conversaoDolar)
 
-  println("Com R$$saldo reais, você pode comprar US$$qntCasasDecimais")
+  println("Com R$$saldo reais, você pode comprar US$$qntCasasDecimais dólares.")
 }

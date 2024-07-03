@@ -1,6 +1,6 @@
 package Sequencias_Basicas
 
-import java.util.*
+import java.util.Scanner
 
 fun main() {
   /* Desafio 005: Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina.*/

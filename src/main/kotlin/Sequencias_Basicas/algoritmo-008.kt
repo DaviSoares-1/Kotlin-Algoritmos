@@ -1,6 +1,6 @@
 package Sequencias_Basicas
 
-import java.util.*
+import java.util.Scanner
 
 fun main() {
   /* Desafio 008: Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas.*/

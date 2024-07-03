@@ -1,6 +1,6 @@
 package Sequencias_Basicas
 
-import java.util.*
+import java.util.Scanner
 
 fun main() {
   /* Desafio 004: Desenvolva um algoritmo que leia dois números inteiros

@@ -1,6 +1,6 @@
 package Sequencias_Basicas
 
-import java.util.*
+import java.util.Scanner
 
 fun main() {
   /* Desafio 006: Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.*/
